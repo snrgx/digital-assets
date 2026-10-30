@@ -19,7 +19,7 @@ A practical six-step guide to turning what you do every day into a Claude Skill 
 
 **For:** non-technical people from any profession: founders, admins, doctors, teachers, lawyers, students and more.
 
-📥 **[English (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/Skill-Guide-EN.pdf)** · 📥 **[العربية (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/Skill-Guide-AR.pdf)** · 18 pages each
+📥 **[English (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/Build-Skill-Guide-EN.pdf)** · 📥 **[العربية (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/Build-Skill-Guide-AR.pdf)** · 18 pages each
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Build landing pages with AI, without vibe coding. From the free webinar of 20 Oc
 
 أدلة مجانية وأوراق مختصرة من **حميدة رحيمي**، مؤسسة SNRGX: مواد عملية جاهزة للنسخ، لغير المتخصصين في التقنية ممن يريدون العمل بشكل أفضل مع الـ AI.
 
-- **حوّل خبرتك إلى Skill:** دليل عملي في ست خطوات لتحويل ما تقوم به يومياً إلى Skill تعمل بطريقتك في كل مرة. [تحميل النسخة العربية](https://raw.githubusercontent.com/snrgx/digital-assets/main/Skill-Guide-AR.pdf)
+- **حوّل خبرتك إلى Skill:** دليل عملي في ست خطوات لتحويل ما تقوم به يومياً إلى Skill تعمل بطريقتك في كل مرة. [تحميل النسخة العربية](https://raw.githubusercontent.com/snrgx/digital-assets/main/Build-Skill-Guide-AR.pdf)
 - **الصفحة الواحدة:** دليل المهندس لبناء صفحات الهبوط بالذكاء الاصطناعي، بدون «فايب كودنق». [تحميل الملف (عربي وإنجليزي)](https://raw.githubusercontent.com/snrgx/digital-assets/main/OnePage-Cheatsheet-EN-AR.pdf)
 
 </div>
