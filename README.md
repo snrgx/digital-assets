@@ -36,9 +36,9 @@ Build landing pages with AI, without vibe coding: security first, the brief temp
 
 <div dir="rtl">ابنِ صفحات الهبوط بالذكاء الاصطناعي، بدون «فايب كودنق»: الأمان أولاً، ونموذج الموجز، والركائز الأربع مع قاموس مصوّر، وأوامر جاهزة، وقائمة تحقق قبل الإطلاق.</div>
 
-**For · لمن:** anyone who wants a landing page for a project, event or service, with no coding background.
+**For · لمن:** non-technical people who need a page for a project, event or service.
 
-📥 **[English + العربية (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/OnePage-Cheatsheet-EN-AR.pdf)**
+📥 **[English (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/OnePage-Cheatsheet-EN.pdf)** · 📥 **[العربية (PDF)](https://raw.githubusercontent.com/snrgx/digital-assets/main/OnePage-Cheatsheet-AR.pdf)**
 
 </td>
 </tr>
