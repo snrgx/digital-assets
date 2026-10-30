@@ -6,7 +6,7 @@ Free guides and cheatsheets by **Hamidah Rahimi** ([@HamidahRK](https://www.inst
 
 ---
 
-## Turn your experience into a Skill · حوّل خبرتك إلى Skill
+## Build a Skill · ابنِ Skill
 
 <table>
 <tr>
